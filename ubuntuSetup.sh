@@ -10,6 +10,7 @@ sudo apt-get install npm
 sudo apt-get install nodejs-legacy
 sudo apt-get install -g bower
 npm install -g grunt-cli
+npm install -g node-inspector
 
 echo "Installing MongoDB"
 sudo apt-key adv -keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
